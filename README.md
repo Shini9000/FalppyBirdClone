@@ -1,1 +1,3 @@
-# FalppyBirdClone
+# FlappyBirdClone
+
+Cant spell .-.
